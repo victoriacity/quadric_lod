@@ -1,5 +1,6 @@
 # quadric_lod
 Generates LOD mesh based on quadric error metric with heuristics. See the report document for details.
+![preview](preview.png)
 
 ### Usage 
 `python decimate.py [-h] [-a] [-b BOUNDARY] [-t THRESHOLD] [-o OUTPUT] [-p]
